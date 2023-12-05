@@ -2,6 +2,8 @@
 # Anna Carmody, Rafi Dahdal, and Jacob Stanley
 
 ## Project Description
+[LINK](https://acarmody2-final-project-final-viz-nxa2hu.streamlit.app/)
+This repository is for the class project of MGT 4250 Fall 2023 at Elon University.
 ### Questions of Interest
 - Our first question is: how does average salary change over time and/or based on job title? This question highlights that we want to discover insights into overall global payment trends and valuation of certain careers (Vazquez). 
 - Our second question is: how does the size of a company impact the average salary of a worker? This question sheds light on the relationship between company size and worker compensation, as large companies generally offer “higher salaries and bonuses” (Hering).
